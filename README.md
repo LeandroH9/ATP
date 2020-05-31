@@ -1,9 +1,9 @@
 # ATP
-Trabalhos Práticos de Programação desenvolvidos na matéria Algoritmos e Técnicas de Programação 2 (ATP 2).
+Trabalhos Práticos de Programação desenvolvidos na disciplina Algoritmos e Técnicas de Programação 2 (ATP 2).
 <br>
 Os trabalhos foram construidos na linguagem C
 
-## Objetivo de cada algoritmo 
+## Funcionalidade de cada algoritmo 
 
 - **TPP 1** — Operações sobre Conjuntos – Arrays/Arranjos
 - **TPP 2** — Paradigma de Divisão e Conquista (MergeSort e QuickSort)
